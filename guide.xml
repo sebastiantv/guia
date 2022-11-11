@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="SBT (REDE MASSA)">
+    <display-name lang="pt">SBT (REDE MASSA)</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="CINEMAX *HD">
+    <display-name lang="pt">CINEMAX *HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="GLOBO MINAS///">
+    <display-name lang="pt">GLOBO MINAS///</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="BAND SP">
+    <display-name lang="pt">BAND SP</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+</tv>
